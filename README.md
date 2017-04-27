@@ -1,6 +1,6 @@
 # npmtest-ionic-framework
 
-#### test coverage for  [ionic-framework (v2.0.0-beta.2)](https://github.com/driftyco/ionic/tree/2.0%60#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ionic-framework.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ionic-framework) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ionic-framework.svg)](https://travis-ci.org/npmtest/node-npmtest-ionic-framework)
+#### basic test coverage for  [ionic-framework (v2.0.0-beta.2)](https://github.com/driftyco/ionic/tree/2.0%60#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ionic-framework.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ionic-framework) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ionic-framework.svg)](https://travis-ci.org/npmtest/node-npmtest-ionic-framework)
 
 #### An advanced HTML5 mobile app framework built on Angular2
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-ionic-framework/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-ionic-framework/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-ionic-framework/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-ionic-framework/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ionic-framework/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ionic-framework/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-ionic-framework/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-ionic-framework/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ionic-framework/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ionic-framework/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-ionic-framework/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-ionic-framework/build/coverage.html/index.html)
 
@@ -93,7 +93,8 @@
         "url": "git+https://github.com/driftyco/ionic.git#2.0'"
     },
     "scripts": {},
-    "version": "2.0.0-beta.2"
+    "version": "2.0.0-beta.2",
+    "bin": {}
 }
 ```
 
